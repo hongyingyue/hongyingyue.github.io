@@ -1,7 +1,4 @@
-## Data Scientist | Data Engineer | LLM Practitioner
-
-
-### Portfolio							       		
+## Portfolio							       		
 
 #### 📍 Machine Learning
 
